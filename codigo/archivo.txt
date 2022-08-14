@@ -1,1 +1,2 @@
-Archivo adicional para permitir la creación de carpetas
+import pandas as pd 
+data = pd.read_csv('C:\\Users\\WINDOWS 11\\Desktop\\EAFIT ZJ\\calles_de_medellin_con_acoso.csv', sep=';')

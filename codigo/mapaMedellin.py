@@ -36,9 +36,6 @@ plt.tight_layout()
 plt.savefig("mapa-riesgo-de-acoso.png")
 
 
-#lifeQuality.plot(ax=ax,column=fraction_of_males, legend=True)
-#lifeQuality.plot(ax=ax,column=fraction_under_1_salary, legend=True)
-#lifeQuality.plot(ax=ax,column='harassmentRisk', legend=True)
 
 fig, ax = plt.subplots(figsize=(12,8))
 

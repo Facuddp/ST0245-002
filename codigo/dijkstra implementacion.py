@@ -72,7 +72,7 @@ def dijkstra(graph, start, goal):
     if shortest_distance[goal] != infinity:
         print("La valor mas corto es: " + str(shortest_distance[goal]))
         print("El camino mas optimo es: " + str(path))
-        return path
+        
         
     
 origen = "(-75.5728593, 6.2115169)"

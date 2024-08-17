@@ -1,7 +1,9 @@
 # Medellín Shortest Path Visualization
 
 Este proyecto grafica el mapa de Medellín mostrando el camino más corto desde el punto A (Universidad EAFIT) hasta el punto B (Universidad Nacional) utilizando Python y el algoritmo de Dijkstra, implementado con grafos y estructuras de datos únicas.
+
 Se proponen 3 soluciones a los caminos más cortos tomando en cuenta diferentes variables como lo son el riesgo de acoso y la distancia más corta. Uno priorizando la distancia y el riesgo, otro solo el riesgo y otro solo la distancia. 
+
 Se puede ver más información sobre la investigación del proyecto, la complejidad del algoritmo implementado y los tiempos de ejecución en los documentos proporcionados.
 
 ## Tecnologías Utilizadas
